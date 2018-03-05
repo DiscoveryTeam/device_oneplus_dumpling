@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/citrus.mk
+    $(LOCAL_DIR)/cardinal.mk
