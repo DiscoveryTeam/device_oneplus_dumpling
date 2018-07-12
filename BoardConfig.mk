@@ -38,4 +38,4 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 TARGET_FS_CONFIG_GEN += $(DEVICE_PATH)/config.fs
 
 # inherit from the proprietary version
--include vendor/oneplus/dumpling/BoardConfigVendor.mk
+#-include vendor/oneplus/dumpling/BoardConfigVendor.mk
